@@ -16,7 +16,7 @@ It is assumed that the data for the project has been extracted to the working di
 
 ### Subject Data Sets
 
-First, read, merge and label the subject data sets.
+Read, merge and label the subject data sets.
 
 2. Read 'subject_train.txt' and 'subject_test.txt' files and create a field identifying these records as 'train' and 'test' in a new column labeled 'group'
 3. rbind the the two subject data sets into one final 'subject' data set
@@ -24,7 +24,7 @@ First, read, merge and label the subject data sets.
 
 ### Activity Data Sets
 
-Next, prepare the activity labels into an acceptable format. This format removes the '_' character from the labels and converts them to lower case.
+Prepare the activity labels into an acceptable format. This format removes the '_' character from the labels and converts them to lower case.
 
 5. Read '/UCI HAR Dataset/activity_labels.txt'
 6. Replace '_' with ''
@@ -52,7 +52,7 @@ Rename the features labels to an acceptable format.
 
 ### Train and Test Data Sets
 
-Next, rea, merge and label the train and test data sets.
+Read, merge and label the train and test data sets.
 
 17. Read '/UCI HAR Dataset/train/x_train.txt' and '/UCI HAR Dataset/test/x_test.txt' files
 18. rbind the train and test data sets
