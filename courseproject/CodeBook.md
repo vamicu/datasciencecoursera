@@ -92,7 +92,7 @@ A list of the measure variables are shown below.
 * tGravityAccMagMean
 * tGravityAccMagStd
 
-#### tBodyAccJerk
+#### tBodyAccJerkMag
 
 * tBodyAccJerkMagMean
 * tBodyAccJerkMagStd
@@ -102,7 +102,7 @@ A list of the measure variables are shown below.
 * tBodyGyroMagMean
 * tBodyGyroMagStd
 
-#### tBodyGyroJerk
+#### tBodyGyroJerkMag
 
 * tBodyGyroJerkMagMean
 * tBodyGyroJerkMagStd
@@ -139,7 +139,7 @@ A list of the measure variables are shown below.
 * fBodyAccMagMean
 * fBodyAccMagStd
 
-#### fBodyAccJerk
+#### fBodyAccJerkMag
 
 * fBodyAccJerkMagMean
 * fBodyAccJerkMagStd

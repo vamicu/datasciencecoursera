@@ -1,7 +1,7 @@
 # README run_analysis.R
 Created by vamicu
 
-This R script requires the 'reshape2' package.
+The R script requires the 'reshape2' package.
 
 The data for the project comes from:
 [link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)

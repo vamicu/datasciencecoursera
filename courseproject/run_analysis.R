@@ -56,7 +56,7 @@ dataSet <-cbind(subject,activity,data)
 
 # CREATE FINAL TIDY DATA SET
 tidyData <- melt(dataSet, id=c('subject', 'activity'), measure.vars=names(data))
-tidyData <- dcast(tidyData, subject + activity ~ names(data), mean)
+tidyData <- dcast(tidyData, subject + activity ~ variable, mean)
 
 # WRITE FINAL TIDY DATA SET TO TEXT FILE
 write.table(tidyData, file = 'tidyData.txt')
