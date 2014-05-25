@@ -42,7 +42,6 @@ A list of the measure variables are shown below.
 * tBodyAccMeanX
 * tBodyAccMeanY
 * tBodyAccMeanZ
-
 * tBodyAccStdX
 * tBodyAccStdY
 * tBodyAccStdZ
@@ -52,7 +51,6 @@ A list of the measure variables are shown below.
 * tGravityAccMeanX
 * tGravityAccMeanY
 * tGravityAccMeanZ
-
 * tGravityAccStdX
 * tGravityAccStdY
 * tGravityAccStdZ
@@ -62,7 +60,6 @@ A list of the measure variables are shown below.
 * tBodyAccJerkMeanX
 * tBodyAccJerkMeanY
 * tBodyAccJerkMeanZ
-
 * tBodyAccJerkStdX
 * tBodyAccJerkStdY
 * tBodyAccJerkStdZ
@@ -72,7 +69,6 @@ A list of the measure variables are shown below.
 * tBodyGyroMeanX
 * tBodyGyroMeanY
 * tBodyGyroMeanZ
-
 * tBodyGyroStdX
 * tBodyGyroStdY
 * tBodyGyroStdZ
@@ -82,7 +78,6 @@ A list of the measure variables are shown below.
 * tBodyGyroJerkMeanX
 * tBodyGyroJerkMeanY
 * tBodyGyroJerkMeanZ
-
 * tBodyGyroJerkStdX
 * tBodyGyroJerkStdY
 * tBodyGyroJerkStdZ
@@ -117,7 +112,6 @@ A list of the measure variables are shown below.
 * fBodyAccMeanX
 * fBodyAccMeanY
 * fBodyAccMeanZ
-
 * fBodyAccStdX
 * fBodyAccStdY
 * fBodyAccStdZ
@@ -127,7 +121,6 @@ A list of the measure variables are shown below.
 * fBodyAccJerkMeanX
 * fBodyAccJerkMeanY
 * fBodyAccJerkMeanZ
-
 * fBodyAccJerkStdX
 * fBodyAccJerkStdY
 * fBodyAccJerkStdZ
@@ -137,7 +130,6 @@ A list of the measure variables are shown below.
 * fBodyGyroMeanX
 * fBodyGyroMeanY
 * fBodyGyroMeanZ
-
 * fBodyGyroStdX
 * fBodyGyroStdY
 * fBodyGyroStdZ
